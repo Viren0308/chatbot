@@ -1,0 +1,1 @@
+module.exports = [{"title":"Department of Computer Engineering | Jaihind College of Engineering, Kuran","paragraph":"Computer Engineering"}];
